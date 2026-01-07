@@ -12,7 +12,11 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
 
 ### [Lab 01: Linux Process Manipulation](./Linux_Processes.md)
 * **Topic:** Managing system resources and understanding kernel signals.
-* **Key Learning:** Mastered `top`, `ps`, and `kill` commands to monitor and secure system activity.
+* **Key Learning:** Mastered `top`, `ps`, and `kill` commands to monitor and secure system activity*
+* **Technical Highlights:**
+  * Process lifecycle management using `top`, `ps`, and `kill`.
+  * Implementation of **File System Security** using `chmod` octal modes.
+  * Verified access control (Confidentiality) by testing permission denials for non-owner users..
 
 ### [Lab 02: Network Diagnostics & Troubleshooting (Coming Soon)]
 * **Topic:** Analyzing network paths and verifying service availability.
