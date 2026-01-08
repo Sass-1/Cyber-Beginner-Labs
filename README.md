@@ -18,9 +18,13 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
   * Implementation of **File System Security** using `chmod` octal modes.
   * Verified access control (Confidentiality) by testing permission denials for non-owner users..
 
-### [Lab 02: Network Diagnostics & Troubleshooting (Coming Soon)]
-* **Topic:** Analyzing network paths and verifying service availability.
-* **Tools:** `ping`, `traceroute`, `dig`, and `netstat`.
+### [Lab 02: Network Reconnaissance & Threat Hunting](./Networking_Lab.md)
+* **Status:** In Progress 🛠️
+* **Technical Highlights:**
+  * Network surface mapping using `nmap` and `ip addr`.
+  * Identification of active services and unauthorized listening ports.
+  * **Threat Hunting Simulation:** Detecting and neutralizing persistent processes.
+  * Implementation of Incident Response SOP (Standard Operating Procedures).
 
 ---
 *“Continuous learning is the best defense in a changing threat landscape.”*
