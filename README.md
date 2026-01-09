@@ -19,11 +19,22 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
   * Verified access control (Confidentiality) by testing permission denials for non-owner users..
 
 ### [Lab 02: Network Reconnaissance & Threat Hunting](./Networking_Lab.md)
+* **Topic:** Monitoring system processes and neutralizing persistent threats.
+* **Key Learning:** Understanding how to identify, track, and terminate suspicious background activities.
 * **Technical Highlights:**
   * Network surface mapping using `nmap` and `ip addr`.
   * Identification of active services and unauthorized listening ports.
   * **Threat Hunting Simulation:** Detecting and neutralizing persistent processes.
   * Implementation of Incident Response SOP (Standard Operating Procedures).
+
+### [Lab 03: Network Hardening & Firewalling (UFW)]
+* **Topic:** Securing system access and minimizing the attack surface.
+* **Key Learning:** Implementation of the "Least Privilege" principle at the network level using a firewall.
+
+* **Technical Highlights:**
+  * Configuration of a "Deny by Default" policy to block unauthorized incoming traffic.
+  * Selective port management (SSH/HTTP) to maintain secure administrative access.
+  * Post-Hardening Verification: Using nmap to validate the invisibility of filtered ports from an external perspective.
 
 ---
 *“Continuous learning is the best defense in a changing threat landscape.”*
