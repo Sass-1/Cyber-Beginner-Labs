@@ -19,7 +19,6 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
   * Verified access control (Confidentiality) by testing permission denials for non-owner users..
 
 ### [Lab 02: Network Reconnaissance & Threat Hunting](./Networking_Lab.md)
-* **Status:** In Progress 🛠️
 * **Technical Highlights:**
   * Network surface mapping using `nmap` and `ip addr`.
   * Identification of active services and unauthorized listening ports.
