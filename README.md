@@ -1,13 +1,13 @@
 #  Cybersecurity Learning Journey
 
-Welcome to my technical portfolio! This repository documents my hands-on experience and progress as I transition into the cybersecurity field. My focus is on mastering Linux administration, network security, and defensive operations.
+Welcome to my technical portfolio! This repository documents my hands-on experience and progress as I transition into the cybersecurity field. My focus is on mastering Linux administration, network security, and developing custom defensive tools using C++ and Python.
 
 ##  Skills & Tools
-- **Operating Systems:** Advanced use of Linux (Kali Linux, Ubuntu) via Command Line Interface (CLI).
-- **Networking:** Connectivity diagnostics, DNS resolution, and port monitoring.
-- **System Administration:** Process management, signal handling (SIGTERM/SIGKILL), and package management (APT).
-- **Version Control:** Professional use of Git and GitHub for technical documentation.
-
+* **Operating Systems:** Advanced Linux administration (Kali Linux, Ubuntu), process management, and system hardening.
+* **Programming & Scripting:** Developing security tools using **C++** (Socket programming, memory management) and **Python** (Automation, scripting).
+* **Network Security:** Implementing Firewalls (**UFW**), network reconnaissance (**Nmap**), and custom network scanner development.
+* **Cybersecurity Concepts:** Understanding the TCP/IP stack, Three-Way Handshake, and memory-level vulnerabilities (Buffer Overflows, Pointers).
+* **Documentation & Version Control:** Technical reporting via Markdown and professional project management using **GitHub**.
 ##  Labs & Projects
 
 ### [Lab 01: Linux Process Manipulation](./Linux_Processes.md)
