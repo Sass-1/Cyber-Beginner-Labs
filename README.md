@@ -30,7 +30,6 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
 ### [Lab 03: Network Hardening & Firewalling (UFW)]
 * **Topic:** Securing system access and minimizing the attack surface.
 * **Key Learning:** Implementation of the "Least Privilege" principle at the network level using a firewall.
-
 * **Technical Highlights:**
   * Configuration of a "Deny by Default" policy to block unauthorized incoming traffic.
   * Selective port management (SSH/HTTP) to maintain secure administrative access.
