@@ -14,5 +14,10 @@ To secure the Linux environment by implementing a host-based firewall, restricti
 * **Outgoing Policy:** `Allow` (Default)
 * **Evidence:** After activation, unauthorized port connection attempts changed from `closed` to `filtered`, indicating that the firewall is actively dropping suspicious packets.
 
+## Evidence
+Here is the status of the firewall after configuration:
+
+![UFW Status Screenshot](ufw_status.png)
+
 > [!IMPORTANT]
 > This lab demonstrates "System Hardening," a critical step in the defense-in-depth strategy to reduce the attack surface of a machine.
