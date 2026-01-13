@@ -14,7 +14,7 @@ int main() {
     struct sockaddr_in cible;
     cible.sin_family = AF_INET;
     cible.sin_port = htons(80); 
-    inet_pton(AF_INET, "127.0.0.1", &cible.sin_addr);
+    inet_pton(AF_INET, "8.8.8.8", &cible.sin_addr);
 
     // 3. Try to connect
     cout << "Scanning port 80..." << endl;
