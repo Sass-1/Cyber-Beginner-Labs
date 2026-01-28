@@ -35,7 +35,7 @@ Welcome to my technical portfolio! This repository documents my hands-on experie
   * Selective port management (SSH/HTTP) to maintain secure administrative access.
   * Post-Hardening Verification: Using nmap to validate the invisibility of filtered ports from an external perspective.
 
-### [Lab 04: C++ Network Scanner Development]
+### [Lab 04: C++ Network Scanner Development](./Lab04-Scanner.cpp)
 * **Topic:** Socket programming and low-level network protocol analysis.
 * **Key Learning:** Understanding the TCP Three-Way Handshake and implementing manual network requests at the system level.
 * **Technical Highlights:**
